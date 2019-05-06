@@ -1,6 +1,6 @@
 # google-search-query-type-ahead
 
-Its a simple springboot microservice which uses trie data structure to store the searcheed queries and when user does a query it shows all the completions starting from lattest typed character.
+Its a simple springboot microservice which uses trie data structure to store the searched queries and when user does a query it shows all the completions starting from lattest typed character.
 Currently It is working fine with given all the dictonary words. which are stored in main/resource/ as text file.
 
 
