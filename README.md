@@ -10,3 +10,11 @@ For all the queries it does process the trie and returns a set of completions.
 For scaling purpose trie approach is not much practical. Prefix hash is used in that scenario.
 
 
+# Frontent Module is developed in React.js
+https://github.com/ravikuril/Type-Ahead-frontent-Module 
+
+This module is link to the current microservice and user can type the query and this frontent will communicate with the backened microservice and will show the top K auto complete queries.
+
+
+
+
