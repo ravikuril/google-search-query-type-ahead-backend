@@ -5,7 +5,6 @@
     <groupId>telstra.com</groupId>
      <packaging>jar</packaging>
     <artifactId>CRUDoperationApp</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
 
     <!-- Define the parent pom -->
     <parent>
